@@ -1,5 +1,5 @@
 list_of_pairs=[]
-f = open('input.txt', 'r')
+f = open('input3.txt', 'r')
 input=f.readlines()
 count=0
 for i in input:
